@@ -16,4 +16,8 @@ server.use((req, res, next) => {
 
 server.use(router);
 
+<<<<<<< HEAD
 module.exports = server;
+=======
+module.exports = server;
+>>>>>>> bcacb26ec6e7438e912e96e438a9cfb9e19627d1
